@@ -1,4 +1,4 @@
-package com.kpaydeveloper.sistem.informasi.lost.and.found;
+package com.kpaydeveloper;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
